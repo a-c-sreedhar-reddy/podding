@@ -1,0 +1,1 @@
+{"errors":[{"message":"Field \"source\" of type \"File\" must have a selection of subfields. Did you mean \"source { ... }\"?","locations":[{"line":12,"column":11}]}],"pageContext":{"isCreatedByStatefulCreatePages":true}}
